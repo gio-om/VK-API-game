@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/gioom/nn/build-NN_project-Desktop-Debug/NN_project_autogen",
+	"CMAKE_BINARY_DIR" : "/home/gioom/nn/build-NN_project-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/gioom/nn/build-NN_project-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/gioom/nn/NN_project",
+	"CMAKE_SOURCE_DIR" : "/home/gioom/nn/NN_project",
+	"INCLUDE_DIR" : "/home/gioom/nn/build-NN_project-Desktop-Debug/NN_project_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/gioom/nn/NN_project/vkIcon.png",
+		"/home/gioom/nn/NN_project/playerIcon.png",
+		"/home/gioom/nn/NN_project/neuralIcon.png"
+	],
+	"LOCK_FILE" : "/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/NN_project_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/gioom/Qt/6.4.3/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/NN_project_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/gioom/nn/NN_project/resources.qrc",
+	"VERBOSITY" : 0
+}

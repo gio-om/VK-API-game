@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>playerIcon.png</file>
+    <file>neuralIcon.png</file>
+    <file>vkIcon.png</file>
+  </qresource>
+</RCC>

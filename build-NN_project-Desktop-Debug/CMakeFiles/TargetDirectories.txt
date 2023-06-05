@@ -1,0 +1,8 @@
+/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/NN_project.dir
+/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/install.dir
+/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/install/local.dir
+/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/gioom/nn/build-NN_project-Desktop-Debug/CMakeFiles/NN_project_autogen.dir
